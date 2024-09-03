@@ -20,4 +20,21 @@ flutter:
 
   assets:
     - assets/images/
-    - assets/images/pizza.jpg
+    - assets/images/pizza2.jpeg
+    - assets/images/BK.png
+    - assets/images/dominos.png
+    - assets/images/burger_1.jfif
+    - assets/images/burger_2.jfif
+    - assets/images/burger_4.jfif
+    - assets/images/dominos_restaaurant.jfif
+    - assets/images/dominos.png
+    - assets/images/kfc.png
+    - assets/images/Mac.png
+    - assets/images/pizza_hut.png
+    - assets/images/star_buks.jfif
+    - assets/images/BK_bulding.jfif
+    - assets/images/mac_bulding.jfif
+    - assets/images/SB_buldigs.jfif
+
+
+
